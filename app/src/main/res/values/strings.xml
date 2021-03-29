@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">NOTIFY</string>
+    <string name="title">Lista de smarthphones</string>
+    <string name="info">Marzo 2021</string>
+    <string name="rating">10</string>
+    <string name="description">Un smartphone es un teléfono celular con pantalla táctil y un robusto sistema operativo con el que los usuarios pueden conectarse a internet, instalar aplicaciones y llevar a cabo muchas de las actividades que podrían realizar en una computadora.</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+
+    <string-array name="id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>HUAWEI</item>
+        <item>SAMSUNG</item>
+        <item>APPLE</item>
+        <item>XIAOMI</item>
+        <item>MOTOROLA</item>
+    </string-array>
+
+    <string-array name="info">
+        <item>Huawei Mate 40 Pro</item>
+        <item>Samsung Galaxy S21</item>
+        <item>iPhone 12 Pro</item>
+        <item>Xiaomi Mi 10 Pro</item>
+        <item>Motorola Edge Plus</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>$1400</item>
+        <item>$799.99</item>
+        <item>$1259</item>
+        <item>$999,00</item>
+        <item>$699</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Gran parte del potencial y rendimiento de los nuevos buque insignia de Huawei viene dado por la implementación del nuevo chip Kirin 9000 SoC con 5G, la última creación de la compañía que tiene el chip 5G integrado, además de la GPU Mali G70 con 24 núcleos. </item>
+        <item>El último miembro de la familia Galaxy S, y más concretamente el Galaxy S21 estándar no va más allá en ningún área, pero al mismo tiempo mejora el diseño del S20 con algunas nuevas opciones estéticas y de color.</item>
+        <item>Más avanzado que el iPhone 12 y el iPhone 12 mini, el iPhone 12 Pro también es más caro y tiene mejores especificaciones que el modelo estándar. Las partes internas son mejores y hay una cámara superior.
+            Un cuarto sensor junto con la tarifa estándar del iPhone 12 en forma de escáner LiDAR hace que sea más fácil para el iPhone determinar lo que está mirando, haciendo un gran trabajo al detectar rostros en situaciones de poca luz.</item>
+        <item>De la serie Xiaomi Mi10, el Mi 10 Pro incluye el nuevo chipset Snapdragon 865 de Qualcomm y una pantalla de 6,67 pulgadas con resolución FHD+.
+
+El Mi 10 Pro cuenta con una cámara principal de 108MP con un sensor de imagen de 1/1.33, combinado con una cámara ultra gran angular de 20MP y un lente macro, para ofrecer una amplia gama de opciones de zoom.</item>
+        <item>El Motorola Edge Plus es posiblemente el teléfono Motorola más interesante en años, ya que también es el primer verdadero buque insignia de la compañía en años.
+
+Eso significa que se enfrenta al Samsung Galaxy S20 y al iPhone 11 Pro, y ciertamente tiene las especificaciones para competir, con un chipset Snapdragon 865 de alta gama, una enorme memoria RAM de 12GB y una enorme batería de 5.000mAh.</item>
+    </string-array>
+
+    <string-array name="url">
+        <item>https://www.proandroid.com/wp-content/uploads/2019/12/P40-Pro-dest.jpg</item>
+        <item>https://www.hwupgrade.it/immagini/s21_720.jpg</item>
+        <item>https://specs-tech.com/wp-content/uploads/2020/10/Apple-iPhone-12-Pro-Max-1.jpg</item>
+        <item>https://i.pinimg.com/736x/49/ee/50/49ee503db31ed7e968e823e26e918777.jpg</item>
+        <item>https://www.gizlogic.com/wp-content/uploads/2020/04/Motorola-Edge-y-Edge-Plus-topes-de-gama-con-pantalla-Endless-Edge-y-5G.jpg</item>
+    </string-array>
+</resources>
